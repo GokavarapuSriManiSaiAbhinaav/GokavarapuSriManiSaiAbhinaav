@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abhi 👋
 
-<!--
-**GokavarapuSriManiSaiAbhinaav/GokavarapuSriManiSaiAbhinaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable web applications while learning Cybersecurity and Full-Stack Development.
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (Cybersecurity) Student  
+💻 Passionate about Web Development & Security  
+🚀 Working towards a Software Engineering career  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 What I Work With
+
+**Frontend** – HTML, CSS, JavaScript, React  
+**Backend** – Node.js, Express (learning)  
+**Database** – MySQL, MongoDB  
+**Tools & Platforms** – Git, GitHub, Linux, VS Code  
+
+---
+
+## 🎯 Current Focus
+
+- Improving Full-Stack Development skills  
+- Learning Cybersecurity & Ethical Hacking  
+- Building real-world projects  
+
+---
+
+## 🎧 Vibing While Coding
+
+*(You can later add Spotify widget here)*
+
+---
+
+## 🤝 Let’s Connect
+
+- LinkedIn: https://linkedin.com/in/abhi-gokavarapu-19m2006
+- Email: gokavarapuabhinav7@gmail.com
