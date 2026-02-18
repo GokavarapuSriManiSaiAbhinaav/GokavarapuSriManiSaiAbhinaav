@@ -1,6 +1,6 @@
 # Gokavarapu Abhinav
 
-Building scalable web applications while learning Cybersecurity and Full-Stack Development.
+Building scalable web applications while exploring Cybersecurity and Full-Stack Development.
 
 🎓 B.Tech CSE (Cybersecurity) Student  
 💻 Passionate about Web Development & Security  
@@ -34,7 +34,8 @@ Building scalable web applications while learning Cybersecurity and Full-Stack D
 ## 🤝 Let's Connect
 
 [LinkedIn](https://linkedin.com/in/abhi-gokavarapu-19m2006) · 
-[Email](mailto:gokavarapuabhinav7@gmail.com)
+[Email](mailto:gokavarapuabhinav7@gmail.com) · 
+Portfolio (coming soon)
 
 ---
 
