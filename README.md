@@ -31,7 +31,11 @@ Building scalable web applications while learning Cybersecurity and Full-Stack D
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/abhi-gokavarapu-19m2006
-- Email: gokavarapuabhinav7@gmail.com
+[LinkedIn](https://linkedin.com/in/abhi-gokavarapu-19m2006) · 
+[Email](mailto:gokavarapuabhinav7@gmail.com)
+
+---
+
+*Open to connecting, collaborating, and building exciting projects together.*
