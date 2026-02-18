@@ -25,10 +25,9 @@ Building scalable web applications while learning Cybersecurity and Full-Stack D
 
 ---
 
-## 🎧 Vibing While Coding
+## 🎧 Still in this Loop
 
-*(You can later add Spotify widget here)*
-
+[🎵 Boom Boom – Dude Movie](https://open.spotify.com/track/1AEqas5WNUEEquskAuswn3)
 ---
 
 ## 🤝 Let's Connect
